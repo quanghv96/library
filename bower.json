@@ -1,8 +1,8 @@
 {
-  "name": "demo-bower",
+  "name": "library",
   "version": "1.0.1",
   "authors": [
-    "Trung Quan <quanlightning17@gmail.com>"
+    "quanghv96 <quanghavan96@gmail.com>"
   ],
   "description": "Framgia standard demo Bower",
   "main": "/",
@@ -10,7 +10,7 @@
     "fonticons"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/trungquan17/demo-bower.git",
+  "homepage": "https://github.com/quanghv96/library.git",
   "ignore": [
     "README.md"
   ]
